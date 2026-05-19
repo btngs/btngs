@@ -5,10 +5,10 @@
 <br />
 
 ## 💫 About Me
-Saya adalah seorang developer yang berfokus pada pengembangan **Mobile Application** dan **Backend System**. Senang membangun aplikasi yang efisien, skalabel, dan memiliki pengalaman pengguna yang baik.
+I am a passionate developer focusing on **Mobile Application Development** and **Backend Systems**. I love building efficient, scalable applications and crafting great user experiences.
 
-* 🚀 Sedang aktif mengeksplorasi arsitektur backend modern dan optimasi aplikasi mobile.
-* ✉️ Hubungi saya via sosial media di samping untuk kolaborasi!
+* 🚀 Currently exploring modern backend architectures and mobile app performance optimization.
+* ✉️ Feel free to reach out to me via the social links on the side for collaborations!
 
 ---
 
@@ -47,22 +47,4 @@ Saya adalah seorang developer yang berfokus pada pengembangan **Mobile Applicati
 ![](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### 🔧 Design & Tools
-![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black)
-![](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bintangsyahri&show_icons=true&theme=tokyonight&count_private=true" alt="Bintang's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bintangsyahri&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bintangsyahri&theme=tokyonight" alt="GitHub Streak" />
-</p>
+![](https://img.shields
